@@ -1,0 +1,1339 @@
+{
+  "categories": [
+    {
+      "count": 78981,
+      "id": 0,
+      "name": "empty"
+    },
+    {
+      "count": 6355,
+      "id": 2,
+      "name": "tayassu pecari"
+    },
+    {
+      "count": 5833,
+      "id": 3,
+      "name": "dasyprocta punctata"
+    },
+    {
+      "count": 619,
+      "id": 4,
+      "name": "cuniculus paca"
+    },
+    {
+      "count": 4453,
+      "id": 6,
+      "name": "puma concolor"
+    },
+    {
+      "count": 129,
+      "id": 7,
+      "name": "tapirus terrestris"
+    },
+    {
+      "count": 1181,
+      "id": 8,
+      "name": "pecari tajacu"
+    },
+    {
+      "count": 330,
+      "id": 9,
+      "name": "mazama americana"
+    },
+    {
+      "count": 5824,
+      "id": 10,
+      "name": "leopardus pardalis"
+    },
+    {
+      "count": 480,
+      "id": 12,
+      "name": "geotrygon montana"
+    },
+    {
+      "count": 54,
+      "id": 13,
+      "name": "nasua nasua"
+    },
+    {
+      "count": 183,
+      "id": 14,
+      "name": "dasypus novemcinctus"
+    },
+    {
+      "count": 260,
+      "id": 15,
+      "name": "eira barbara"
+    },
+    {
+      "count": 106,
+      "id": 16,
+      "name": "didelphis marsupialis"
+    },
+    {
+      "count": 167,
+      "id": 17,
+      "name": "penelope jacquacu"
+    },
+    {
+      "count": 3,
+      "id": 20,
+      "name": "procyon cancrivorus"
+    },
+    {
+      "count": 5,
+      "id": 21,
+      "name": "aramides cajaneus"
+    },
+    {
+      "count": 4099,
+      "id": 24,
+      "name": "panthera onca"
+    },
+    {
+      "count": 187,
+      "id": 25,
+      "name": "myrmecophaga tridactyla"
+    },
+    {
+      "count": 1284,
+      "id": 26,
+      "name": "tinamus major"
+    },
+    {
+      "count": 5,
+      "id": 31,
+      "name": "crypturellus sp"
+    },
+    {
+      "count": 33,
+      "id": 32,
+      "name": "sylvilagus brasiliensis"
+    },
+    {
+      "count": 75,
+      "id": 37,
+      "name": "priodontes maximus"
+    },
+    {
+      "count": 10,
+      "id": 38,
+      "name": "tamandua tetradactyla"
+    },
+    {
+      "count": 5,
+      "id": 40,
+      "name": "tigrisoma lineatum"
+    },
+    {
+      "count": 5,
+      "id": 41,
+      "name": "cochlearius cochlearius"
+    },
+    {
+      "count": 3,
+      "id": 44,
+      "name": "puma yagouaroundi"
+    },
+    {
+      "count": 458,
+      "id": 50,
+      "name": "leopardus wiedii"
+    },
+    {
+      "count": 2,
+      "id": 51,
+      "name": "buteogallus urubitinga"
+    },
+    {
+      "count": 16,
+      "id": 62,
+      "name": "mazama gouazoubira"
+    },
+    {
+      "count": 20,
+      "id": 67,
+      "name": "philander opossum"
+    },
+    {
+      "count": 333,
+      "id": 70,
+      "name": "capra aegagrus"
+    },
+    {
+      "count": 5118,
+      "id": 71,
+      "name": "bos taurus"
+    },
+    {
+      "count": 195,
+      "id": 72,
+      "name": "ovis aries"
+    },
+    {
+      "count": 19,
+      "id": 73,
+      "name": "canis lupus"
+    },
+    {
+      "count": 122,
+      "id": 74,
+      "name": "lepus saxatilis"
+    },
+    {
+      "count": 33313,
+      "id": 75,
+      "name": "human"
+    },
+    {
+      "count": 3,
+      "id": 77,
+      "name": "turtur calcospilos"
+    },
+    {
+      "count": 562,
+      "id": 78,
+      "name": "papio anubis"
+    },
+    {
+      "count": 2500,
+      "id": 79,
+      "name": "unknown"
+    },
+    {
+      "count": 6,
+      "id": 80,
+      "name": "genetta genetta"
+    },
+    {
+      "count": 56,
+      "id": 83,
+      "name": "tragelaphus scriptus"
+    },
+    {
+      "count": 36,
+      "id": 86,
+      "name": "equus africanus"
+    },
+    {
+      "count": 6,
+      "id": 89,
+      "name": "herpestes sanguineus"
+    },
+    {
+      "count": 3614,
+      "id": 90,
+      "name": "loxodonta africana"
+    },
+    {
+      "count": 2630,
+      "id": 91,
+      "name": "cricetomys gambianus"
+    },
+    {
+      "count": 3,
+      "id": 92,
+      "name": "raphicerus campestris"
+    },
+    {
+      "count": 48,
+      "id": 94,
+      "name": "hyaena hyaena"
+    },
+    {
+      "count": 8517,
+      "id": 96,
+      "name": "aepyceros melampus"
+    },
+    {
+      "count": 338,
+      "id": 97,
+      "name": "crocuta crocuta"
+    },
+    {
+      "count": 9,
+      "id": 98,
+      "name": "caracal caracal"
+    },
+    {
+      "count": 1099,
+      "id": 99,
+      "name": "equus ferus"
+    },
+    {
+      "count": 74,
+      "id": 100,
+      "name": "panthera leo"
+    },
+    {
+      "count": 248,
+      "id": 101,
+      "name": "tragelaphus oryx"
+    },
+    {
+      "count": 160,
+      "id": 102,
+      "name": "kobus ellipsiprymnus"
+    },
+    {
+      "count": 449,
+      "id": 103,
+      "name": "phacochoerus africanus"
+    },
+    {
+      "count": 72,
+      "id": 104,
+      "name": "panthera pardus"
+    },
+    {
+      "count": 6,
+      "id": 106,
+      "name": "ichneumia albicauda"
+    },
+    {
+      "count": 37,
+      "id": 108,
+      "name": "canis mesomelas"
+    },
+    {
+      "count": 0,
+      "id": 109,
+      "name": "xerus erythropus"
+    },
+    {
+      "count": 1755,
+      "id": 110,
+      "name": "syncerus caffer"
+    },
+    {
+      "count": 2297,
+      "id": 111,
+      "name": "equus quagga"
+    },
+    {
+      "count": 1499,
+      "id": 112,
+      "name": "giraffa camelopardalis"
+    },
+    {
+      "count": 12,
+      "id": 113,
+      "name": "alcelaphus buselaphus"
+    },
+    {
+      "count": 1,
+      "id": 114,
+      "name": "chlorocebus pygerythrus"
+    },
+    {
+      "count": 3426,
+      "id": 115,
+      "name": "madoqua guentheri"
+    },
+    {
+      "count": 915,
+      "id": 116,
+      "name": "potamochoerus larvatus"
+    },
+    {
+      "count": 44,
+      "id": 118,
+      "name": "nanger granti"
+    },
+    {
+      "count": 3,
+      "id": 119,
+      "name": "eudorcas thomsonii"
+    },
+    {
+      "count": 28,
+      "id": 120,
+      "name": "struthio camelus"
+    },
+    {
+      "count": 12,
+      "id": 121,
+      "name": "orycteropus afer"
+    },
+    {
+      "count": 9,
+      "id": 122,
+      "name": "acinonyx jubatus"
+    },
+    {
+      "count": 27,
+      "id": 123,
+      "name": "eupodotis senegalensis"
+    },
+    {
+      "count": 13,
+      "id": 124,
+      "name": "felis silvestris"
+    },
+    {
+      "count": 75,
+      "id": 127,
+      "name": "oryx beisa"
+    },
+    {
+      "count": 15,
+      "id": 129,
+      "name": "lophotis gindiana"
+    },
+    {
+      "count": 3,
+      "id": 130,
+      "name": "ardeotis kori"
+    },
+    {
+      "count": 6,
+      "id": 133,
+      "name": "helogale parvula"
+    },
+    {
+      "count": 21,
+      "id": 134,
+      "name": "lissotis melanogaster"
+    },
+    {
+      "count": 1006,
+      "id": 137,
+      "name": "macaca nemestrina"
+    },
+    {
+      "count": 570,
+      "id": 139,
+      "name": "argusianus argus"
+    },
+    {
+      "count": 7,
+      "id": 141,
+      "name": "prionailurus bengalensis"
+    },
+    {
+      "count": 25,
+      "id": 142,
+      "name": "hemigalus derbyanus"
+    },
+    {
+      "count": 887,
+      "id": 144,
+      "name": "muntiacus muntjak"
+    },
+    {
+      "count": 251,
+      "id": 145,
+      "name": "sus scrofa"
+    },
+    {
+      "count": 128,
+      "id": 147,
+      "name": "helarctos malayanus"
+    },
+    {
+      "count": 31,
+      "id": 150,
+      "name": "rusa unicolor"
+    },
+    {
+      "count": 254,
+      "id": 152,
+      "name": "hystrix brachyura"
+    },
+    {
+      "count": 62,
+      "id": 153,
+      "name": "pardofelis temminckii"
+    },
+    {
+      "count": 55,
+      "id": 154,
+      "name": "panthera tigris"
+    },
+    {
+      "count": 12,
+      "id": 156,
+      "name": "lariscus insignis"
+    },
+    {
+      "count": 8,
+      "id": 159,
+      "name": "chalcophaps indica"
+    },
+    {
+      "count": 60,
+      "id": 161,
+      "name": "genetta tigrina"
+    },
+    {
+      "count": 16,
+      "id": 162,
+      "name": "hystrix cristata"
+    },
+    {
+      "count": 99,
+      "id": 163,
+      "name": "lycaon pictus"
+    },
+    {
+      "count": 6,
+      "id": 166,
+      "name": "procavia capensis"
+    },
+    {
+      "count": 15,
+      "id": 167,
+      "name": "streptopilia senegalensis"
+    },
+    {
+      "count": 12,
+      "id": 170,
+      "name": "ictonyx striatus"
+    },
+    {
+      "count": 5,
+      "id": 175,
+      "name": "canis familiaris"
+    },
+    {
+      "count": 46,
+      "id": 177,
+      "name": "unknown bird"
+    },
+    {
+      "count": 300,
+      "id": 179,
+      "name": "leptotila rufaxilla"
+    },
+    {
+      "count": 0,
+      "id": 188,
+      "name": "chelonoidis carbonaria"
+    },
+    {
+      "count": 7,
+      "id": 198,
+      "name": "unknown bat"
+    },
+    {
+      "count": 45,
+      "id": 210,
+      "name": "crypturellus soui"
+    },
+    {
+      "count": 110,
+      "id": 221,
+      "name": "momotus momota"
+    },
+    {
+      "count": 1841,
+      "id": 227,
+      "name": "psophia crepitans"
+    },
+    {
+      "count": 1,
+      "id": 229,
+      "name": "nothocrax urumutum"
+    },
+    {
+      "count": 8,
+      "id": 230,
+      "name": "dasyprocta fuliginosa"
+    },
+    {
+      "count": 17,
+      "id": 233,
+      "name": "myoprocta pratti"
+    },
+    {
+      "count": 8,
+      "id": 234,
+      "name": "proechimys sp"
+    },
+    {
+      "count": 2,
+      "id": 235,
+      "name": "geotrygon sp"
+    },
+    {
+      "count": 1366,
+      "id": 240,
+      "name": "nasua narica"
+    },
+    {
+      "count": 70,
+      "id": 242,
+      "name": "tamandua mexicana"
+    },
+    {
+      "count": 1937,
+      "id": 243,
+      "name": "didelphis sp"
+    },
+    {
+      "count": 510,
+      "id": 245,
+      "name": "penelope purpurascens"
+    },
+    {
+      "count": 1,
+      "id": 250,
+      "name": "aguila sp"
+    },
+    {
+      "count": 1,
+      "id": 251,
+      "name": "phaetornis sp"
+    },
+    {
+      "count": 1,
+      "id": 252,
+      "name": "paleosuchus sp"
+    },
+    {
+      "count": 1,
+      "id": 253,
+      "name": "brotogeris sp"
+    },
+    {
+      "count": 545,
+      "id": 256,
+      "name": "camelus dromedarius"
+    },
+    {
+      "count": 2,
+      "id": 257,
+      "name": "otocyon megalotis"
+    },
+    {
+      "count": 620,
+      "id": 258,
+      "name": "acryllium vulturinum"
+    },
+    {
+      "count": 1015,
+      "id": 259,
+      "name": "equus grevyi"
+    },
+    {
+      "count": 36,
+      "id": 262,
+      "name": "proteles cristata"
+    },
+    {
+      "count": 41,
+      "id": 265,
+      "name": "leptailurus serval"
+    },
+    {
+      "count": 21,
+      "id": 267,
+      "name": "tragelaphus strepsiceros"
+    },
+    {
+      "count": 39,
+      "id": 268,
+      "name": "hippopotamus amphibius"
+    },
+    {
+      "count": 6,
+      "id": 273,
+      "name": "burhinus capensis"
+    },
+    {
+      "count": 0,
+      "id": 279,
+      "name": "tockus deckeni"
+    },
+    {
+      "count": 15,
+      "id": 286,
+      "name": "xerus rutilus"
+    },
+    {
+      "count": 810,
+      "id": 290,
+      "name": "unidentifiable"
+    },
+    {
+      "count": 102,
+      "id": 291,
+      "name": "paguma larvata"
+    },
+    {
+      "count": 22,
+      "id": 292,
+      "name": "pardofelis marmorata"
+    },
+    {
+      "count": 13,
+      "id": 294,
+      "name": "cuon alpinus"
+    },
+    {
+      "count": 1,
+      "id": 296,
+      "name": "varanus salvator"
+    },
+    {
+      "count": 99,
+      "id": 299,
+      "name": "martes flavigula"
+    },
+    {
+      "count": 32,
+      "id": 300,
+      "name": "prionodon linsang"
+    },
+    {
+      "count": 40,
+      "id": 301,
+      "name": "rollulus rouloul"
+    },
+    {
+      "count": 14,
+      "id": 302,
+      "name": "lophura inornata"
+    },
+    {
+      "count": 1,
+      "id": 306,
+      "name": "polyplectron chalcurum"
+    },
+    {
+      "count": 4,
+      "id": 307,
+      "name": "manis javanica"
+    },
+    {
+      "count": 333,
+      "id": 309,
+      "name": "capricornis sumatraensis"
+    },
+    {
+      "count": 330,
+      "id": 310,
+      "name": "macaca fascicularis"
+    },
+    {
+      "count": 41,
+      "id": 314,
+      "name": "unknown squirrel"
+    },
+    {
+      "count": 1324,
+      "id": 315,
+      "name": "francolinus nobilis"
+    },
+    {
+      "count": 1849,
+      "id": 316,
+      "name": "cercopithecus lhoesti"
+    },
+    {
+      "count": 9052,
+      "id": 317,
+      "name": "cephalophus nigrifrons"
+    },
+    {
+      "count": 973,
+      "id": 318,
+      "name": "atherurus africanus"
+    },
+    {
+      "count": 287,
+      "id": 319,
+      "name": "pan troglodytes"
+    },
+    {
+      "count": 184,
+      "id": 320,
+      "name": "cercopithecus mitis"
+    },
+    {
+      "count": 787,
+      "id": 321,
+      "name": "funisciurus carruthersi"
+    },
+    {
+      "count": 3,
+      "id": 322,
+      "name": "motacilla flava"
+    },
+    {
+      "count": 6,
+      "id": 323,
+      "name": "andropadus latirostris"
+    },
+    {
+      "count": 6,
+      "id": 324,
+      "name": "andropadus virens"
+    },
+    {
+      "count": 9,
+      "id": 325,
+      "name": "thamnomys venustus"
+    },
+    {
+      "count": 30,
+      "id": 326,
+      "name": "protoxerus stangeri"
+    },
+    {
+      "count": 73,
+      "id": 327,
+      "name": "paraxerus boehmi"
+    },
+    {
+      "count": 223,
+      "id": 328,
+      "name": "cephalophus silvicultor"
+    },
+    {
+      "count": 0,
+      "id": 329,
+      "name": "melaenornis ardesiacus"
+    },
+    {
+      "count": 3,
+      "id": 330,
+      "name": "oenomys hypoxanthus"
+    },
+    {
+      "count": 0,
+      "id": 331,
+      "name": "nectarinia cyanolaema"
+    },
+    {
+      "count": 3,
+      "id": 332,
+      "name": "nesocharis capistrata"
+    },
+    {
+      "count": 3,
+      "id": 333,
+      "name": "melocichla mentalis"
+    },
+    {
+      "count": 15,
+      "id": 334,
+      "name": "hybomys univittatus"
+    },
+    {
+      "count": 15,
+      "id": 335,
+      "name": "colomys goslingi"
+    },
+    {
+      "count": 12,
+      "id": 336,
+      "name": "hylomyscus stella"
+    },
+    {
+      "count": 69,
+      "id": 337,
+      "name": "genetta servalina"
+    },
+    {
+      "count": 36,
+      "id": 338,
+      "name": "canis adustus"
+    },
+    {
+      "count": 9,
+      "id": 339,
+      "name": "dioptrornis fischeri"
+    },
+    {
+      "count": 15,
+      "id": 340,
+      "name": "mus minutoides"
+    },
+    {
+      "count": 3,
+      "id": 341,
+      "name": "andropadus gracilirostris"
+    },
+    {
+      "count": 3,
+      "id": 342,
+      "name": "musophaga rossae"
+    },
+    {
+      "count": 0,
+      "id": 343,
+      "name": "acrocephalus baeticatus"
+    },
+    {
+      "count": 118,
+      "id": 344,
+      "name": "turtur tympanistria"
+    },
+    {
+      "count": 9,
+      "id": 345,
+      "name": "praomys tullbergi"
+    },
+    {
+      "count": 9,
+      "id": 346,
+      "name": "malacomys longipes"
+    },
+    {
+      "count": 249,
+      "id": 347,
+      "name": "start"
+    },
+    {
+      "count": 346,
+      "id": 348,
+      "name": "end"
+    },
+    {
+      "count": 1,
+      "id": 349,
+      "name": "eurocephalus rueppelli"
+    },
+    {
+      "count": 11,
+      "id": 350,
+      "name": "alopochen aegyptiaca"
+    },
+    {
+      "count": 6,
+      "id": 352,
+      "name": "deomys ferrugineus"
+    },
+    {
+      "count": 32,
+      "id": 353,
+      "name": "francolinus africanus"
+    },
+    {
+      "count": 23,
+      "id": 354,
+      "name": "nandinia binotata"
+    },
+    {
+      "count": 3,
+      "id": 355,
+      "name": "mesopicos griseocephalus"
+    },
+    {
+      "count": 6,
+      "id": 356,
+      "name": "turdus olivaceus"
+    },
+    {
+      "count": 33,
+      "id": 357,
+      "name": "streptopelia lugens"
+    },
+    {
+      "count": 32,
+      "id": 370,
+      "name": "mazama sp"
+    },
+    {
+      "count": 4542,
+      "id": 371,
+      "name": "urocyon cinereoargenteus"
+    },
+    {
+      "count": 16713,
+      "id": 372,
+      "name": "meleagris ocellata"
+    },
+    {
+      "count": 12908,
+      "id": 374,
+      "name": "crax rubra"
+    },
+    {
+      "count": 2959,
+      "id": 375,
+      "name": "agouti paca"
+    },
+    {
+      "count": 3452,
+      "id": 376,
+      "name": "tapirus bairdii"
+    },
+    {
+      "count": 146,
+      "id": 377,
+      "name": "procyon lotor"
+    },
+    {
+      "count": 1343,
+      "id": 378,
+      "name": "odocoileus virginianus"
+    },
+    {
+      "count": 1300,
+      "id": 379,
+      "name": "leptotila plumbeiceps"
+    },
+    {
+      "count": 3921,
+      "id": 380,
+      "name": "mazama temama"
+    },
+    {
+      "count": 90,
+      "id": 382,
+      "name": "conepatus semistriatus"
+    },
+    {
+      "count": 1119,
+      "id": 384,
+      "name": "mazama pandora"
+    },
+    {
+      "count": 120,
+      "id": 385,
+      "name": "ortalis vetula"
+    },
+    {
+      "count": 58,
+      "id": 389,
+      "name": "presbytis thomasi"
+    },
+    {
+      "count": 26,
+      "id": 390,
+      "name": "neofelis diardi"
+    },
+    {
+      "count": 9,
+      "id": 391,
+      "name": "arctonyx hoevenii"
+    },
+    {
+      "count": 1,
+      "id": 402,
+      "name": "tragulus sp"
+    },
+    {
+      "count": 0,
+      "id": 403,
+      "name": "arctictis binturong"
+    },
+    {
+      "count": 315,
+      "id": 404,
+      "name": "misfire"
+    },
+    {
+      "count": 6,
+      "id": 405,
+      "name": "dendrocitta occipitalis"
+    },
+    {
+      "count": 2,
+      "id": 406,
+      "name": "niltava sumatrana"
+    },
+    {
+      "count": 2,
+      "id": 407,
+      "name": "mustela lutreolina"
+    },
+    {
+      "count": 1,
+      "id": 408,
+      "name": "leiothrix argentauris"
+    },
+    {
+      "count": 24,
+      "id": 409,
+      "name": "myiophoneus melanurus"
+    },
+    {
+      "count": 11,
+      "id": 410,
+      "name": "arborophila rubrirostris"
+    },
+    {
+      "count": 0,
+      "id": 411,
+      "name": "sundasciurus hippurus"
+    },
+    {
+      "count": 2,
+      "id": 412,
+      "name": "erithacus cyane"
+    },
+    {
+      "count": 5,
+      "id": 413,
+      "name": "lophura sp"
+    },
+    {
+      "count": 27,
+      "id": 414,
+      "name": "myiophoneus glaucinus"
+    },
+    {
+      "count": 3,
+      "id": 415,
+      "name": "lophura erythrophthalma"
+    },
+    {
+      "count": 7,
+      "id": 416,
+      "name": "spilornis cheela"
+    },
+    {
+      "count": 1,
+      "id": 417,
+      "name": "myiophoneus caeruleus"
+    },
+    {
+      "count": 3,
+      "id": 418,
+      "name": "herpestes semitorquatus"
+    },
+    {
+      "count": 3,
+      "id": 419,
+      "name": "collocalia linchi"
+    },
+    {
+      "count": 1,
+      "id": 420,
+      "name": "callosciurus notatus"
+    },
+    {
+      "count": 113,
+      "id": 422,
+      "name": "cerdocyon thous"
+    },
+    {
+      "count": 90,
+      "id": 454,
+      "name": "unknown rat"
+    },
+    {
+      "count": 3120,
+      "id": 558,
+      "name": "motorcycle"
+    },
+    {
+      "count": 254,
+      "id": 559,
+      "name": "peromyscus sp"
+    },
+    {
+      "count": 0,
+      "id": 560,
+      "name": "buteogallus urobitinga"
+    },
+    {
+      "count": 130,
+      "id": 561,
+      "name": "unknown raptor"
+    },
+    {
+      "count": 90,
+      "id": 562,
+      "name": "puma yagoroundi"
+    },
+    {
+      "count": 20,
+      "id": 563,
+      "name": "tigrisoma mexicanum"
+    },
+    {
+      "count": 30,
+      "id": 564,
+      "name": "canis latrans"
+    },
+    {
+      "count": 120,
+      "id": 565,
+      "name": "claravis pretiosa"
+    },
+    {
+      "count": 380,
+      "id": 566,
+      "name": "sciurus sp"
+    },
+    {
+      "count": 230,
+      "id": 567,
+      "name": "ave desconocida"
+    },
+    {
+      "count": 195,
+      "id": 568,
+      "name": "aramides cajanea"
+    },
+    {
+      "count": 10,
+      "id": 569,
+      "name": "unknown dove"
+    },
+    {
+      "count": 40,
+      "id": 570,
+      "name": "aramus guarauna"
+    },
+    {
+      "count": 10,
+      "id": 571,
+      "name": "mazama  temama"
+    },
+    {
+      "count": 761,
+      "id": 599,
+      "name": "unknown mouse or rat"
+    },
+    {
+      "count": 4477,
+      "id": 647,
+      "name": "dasyprocta leporina"
+    },
+    {
+      "count": 1291,
+      "id": 648,
+      "name": "crax alector"
+    },
+    {
+      "count": 96,
+      "id": 649,
+      "name": "didelphis imperfecta"
+    },
+    {
+      "count": 289,
+      "id": 650,
+      "name": "unknown opossum"
+    },
+    {
+      "count": 70,
+      "id": 651,
+      "name": "mesembrinis cayannensis"
+    },
+    {
+      "count": 508,
+      "id": 652,
+      "name": "myoprocta pratii"
+    },
+    {
+      "count": 21,
+      "id": 653,
+      "name": "metachirus nudicudatus"
+    },
+    {
+      "count": 784,
+      "id": 654,
+      "name": "unknown armadillo"
+    },
+    {
+      "count": 245,
+      "id": 655,
+      "name": "mazama gouazaoubira"
+    },
+    {
+      "count": 6,
+      "id": 656,
+      "name": "unknown cervid"
+    },
+    {
+      "count": 10,
+      "id": 657,
+      "name": "catharus ustulatus"
+    },
+    {
+      "count": 10,
+      "id": 658,
+      "name": "leopardus weidii"
+    },
+    {
+      "count": 393,
+      "id": 659,
+      "name": "tayassu tajacu"
+    },
+    {
+      "count": 161,
+      "id": 660,
+      "name": "mitu tomentosa"
+    },
+    {
+      "count": 5,
+      "id": 661,
+      "name": "cabassous unicintus"
+    },
+    {
+      "count": 1,
+      "id": 662,
+      "name": "puma yaguaroundi"
+    },
+    {
+      "count": 57,
+      "id": 663,
+      "name": "crypturellus variegatus"
+    },
+    {
+      "count": 32,
+      "id": 664,
+      "name": "unknown pig_peccary"
+    },
+    {
+      "count": 5,
+      "id": 665,
+      "name": "neomorphus rufipennis"
+    },
+    {
+      "count": 2,
+      "id": 666,
+      "name": "pipile pipile"
+    },
+    {
+      "count": 2,
+      "id": 667,
+      "name": "metachirus nudicaudatus"
+    },
+    {
+      "count": 57,
+      "id": 668,
+      "name": "funisciurus pyrropus"
+    },
+    {
+      "count": 0,
+      "id": 669,
+      "name": "alethe poliophrys"
+    },
+    {
+      "count": 0,
+      "id": 670,
+      "name": "ruwenzorornis johnstoni"
+    },
+    {
+      "count": 6,
+      "id": 671,
+      "name": "thryonomys swinderianus"
+    },
+    {
+      "count": 3,
+      "id": 672,
+      "name": "ploceus alienus"
+    },
+    {
+      "count": 3,
+      "id": 673,
+      "name": "ploceus baglafecht"
+    },
+    {
+      "count": 2,
+      "id": 674,
+      "name": "poecilogale albinucha"
+    },
+    {
+      "count": 6,
+      "id": 675,
+      "name": "anomalurus derbianus"
+    }
+  ]
+}

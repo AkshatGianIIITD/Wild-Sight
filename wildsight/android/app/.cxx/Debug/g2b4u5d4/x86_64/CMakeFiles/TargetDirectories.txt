@@ -1,0 +1,2 @@
+C:/flutter practice/wildsight_1/wildsight/android/app/.cxx/Debug/g2b4u5d4/x86_64/CMakeFiles/edit_cache.dir
+C:/flutter practice/wildsight_1/wildsight/android/app/.cxx/Debug/g2b4u5d4/x86_64/CMakeFiles/rebuild_cache.dir
